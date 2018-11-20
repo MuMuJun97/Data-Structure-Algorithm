@@ -1,28 +1,15 @@
-# Data Structures and Algorithms 
-Clean example implementations of data structures and algorithms written in different languages.
+# 数据结构和算法
+
+>- 用不同语言编写的数据结构和算法的简洁示例
+
+>- 好好码代码，好好写算法
+
+---
 <br><br>
 [![Gitter chat](https://badges.gitter.im/VAR-solutions/Algorithms.png)](https://gitter.im/VAR-solutions/Algorithms "Gitter chat")
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 [![Issues](http://img.shields.io/github/issues/VAR-solutions/Algorithms.svg)](https://github.com/VAR-solutions/Algorithms/issues)
-#### List of implementations
 
-[Algorithms list(not updated)](#)
-
-## Contribution!
- * Contributions are always welcome. Language doesn't matter. Just make sure you're implementing an algorithm.
- * PRs are welcome. To begin developing, follow the structure:
-
-   > Algorithm-Type/algorithm_name/language-name/file_name.extension
-   
-   e.g
-   > Sorting/bubble_sort/python/bubble_sort.py
-
- * If there is an implementation of the same algorithm in your language, do not give a PR for that.
- * Please include a description for the algorithm that you are implementing. It doesn't matter if it's copied from somewhere as long as it helps people that are learning new algorithm.
- * Graphical examples would be very helpful too.
- * Don't forget to include tests.
- * Don't remove previous implementations of algorithms. Just add a new file with your own implementation.
- * Beautify and clean up your code for easier reading
 
 ## Resources
 
@@ -78,3 +65,4 @@ Clean example implementations of data structures and algorithms written in diffe
 * [Vishal Gaur](https://github.com/i-vishi):tada:<br>
 * [Ravi Varshney](https://github.com/ravivarshney01):tada:<br>
 * [Ananya Tewari](https://github.com/antew7):tada:<br>
+
